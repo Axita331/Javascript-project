@@ -1,0 +1,31 @@
+.w-600-px {
+    width: 100%;
+}
+
+.card1 {
+    background-color: #ffc0cb30;
+}
+
+.card2 {
+    background-color: #faebd761;
+}
+
+
+.card3 {
+    background-color: azure;
+}
+
+.card4 {
+    background-color: #5f9ea02b;
+}
+
+.service-label {
+    font-size: 20px;
+    font-weight: bold;
+    color: palevioletred;
+}
+
+.list-group-item:hover {
+    color: white;
+    background-color: black;
+}
