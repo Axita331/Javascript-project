@@ -33,6 +33,7 @@ function createTable(users) {
             key: 'actions'
         },
     ];
+    
 
     const loggedInUser = localStorage.getItem('loggedInUser');
 
