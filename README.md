@@ -9,3 +9,8 @@
 8. Moving from one branch to other branch - git checkout <branch-name>
 9. fetch all the changes into your local system including branches - git fetch
 10. Know the status - git status
+11. Save changes locally - git stash
+12. Get back changes - git stash pop
+13. Dont checkout to new or another branch when some changes exist in the current branch.
+14. Rebase - git pull origin <branch-name-2> --rebase
+15. Always after pull resolve the conflicts and then start working
