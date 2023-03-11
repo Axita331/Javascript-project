@@ -14,3 +14,4 @@
 13. Dont checkout to new or another branch when some changes exist in the current branch.
 14. Rebase - git pull origin <branch-name-2> --rebase
 15. Always after pull resolve the conflicts and then start working
+16. Reset number of commits - git reset HEAD~<num>
