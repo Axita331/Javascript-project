@@ -1,5 +1,4 @@
 function validateAndLogin() {
-    console.log('login function');
 
     let errorCount = 0;
 
