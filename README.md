@@ -8,4 +8,4 @@
 7. Creating a new branch from existing - git checkout -b <branch-name>
 8. Moving from one branch to other branch - git checkout <branch-name>
 9. fetch all the changes into your local system including branches - git fetch
-10. 
+10. Know the status - git status
