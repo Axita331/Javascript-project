@@ -5,3 +5,4 @@
 4. Commit to push - git push origin <branch-name>
 5. Before pushing any content pull the changes 
 6. Pull changes - git pull origin <branch-name>
+7. Creating a new branch from existing - git checkout -b <branch-name>
